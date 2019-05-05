@@ -1,1 +1,3 @@
-# lanrenbeiwang
+# 懒人备忘
+
+一个你不能忘的app。
